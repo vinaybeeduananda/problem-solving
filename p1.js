@@ -98,17 +98,17 @@
 // console.log(languages)
 
 // sort binary array 
-let arr = [1,0,0,1,1,0,1,0]
-let length = arr.length;
-let  zcount=0;
-for(ele of arr){
-    if(ele==0)
- zcount++
-}
-for (i=0;i<zcount;i++){
-    arr[i]=0
-}
-for(i=zcount;i<length;i++){
-    arr[i]=1
-}
-console.log(arr)
+// let arr = [1,0,0,1,1,0,1,0]
+// let length = arr.length;
+// let  zcount=0;
+// for(ele of arr){
+//     if(ele==0)
+//  zcount++
+// }
+// for (i=0;i<zcount;i++){
+//     arr[i]=0
+// }
+// for(i=zcount;i<length;i++){
+//     arr[i]=1
+// }
+// console.log(arr)
